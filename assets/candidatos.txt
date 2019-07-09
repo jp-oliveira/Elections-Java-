@@ -1,0 +1,21 @@
+**************************
+candidato: João Carlos
+numero: 76
+partido: PARTA
+votos: 0
+**************************
+candidato: Amaia Vixen
+numero: 10
+partido: LENDA
+votos: 0
+**************************
+candidato: Marcus Glaber
+numero: 45
+partido: REZE
+votos: 0
+**************************
+candidato: Tiberio Kirk
+numero: 31
+partido: TREK
+votos: 0
+**************************

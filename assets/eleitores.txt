@@ -1,0 +1,29 @@
+**************************
+eleitor: Elisa Brie
+titulo: 8795
+votou: falso
+**************************
+eleitor: Suzana Santos
+titulo: 7699
+votou: falso
+**************************
+eleitor: Mike Tyson
+titulo: 0010
+votou: falso
+**************************
+eleitor: Tony Stark
+titulo: 3366
+votou: falso
+**************************
+eleitor: Ralph Bonder
+titulo: 4512
+votou: falso
+**************************
+eleitor: Edie Carlton
+titulo: 1755
+votou: falso
+**************************
+eleitor: Lucimara Andrade
+titulo: 9866
+votou: falso
+**************************
